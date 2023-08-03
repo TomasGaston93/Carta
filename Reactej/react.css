@@ -1,0 +1,10 @@
+* {
+  background-color: black;
+}
+.container {
+  align-items: center;
+}
+
+small {
+  color: beige;
+}
